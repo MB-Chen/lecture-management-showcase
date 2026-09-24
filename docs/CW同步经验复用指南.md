@@ -688,7 +688,7 @@ String correctTime = finalHour + ":" + minute + ":" + second;
 ### 8.1 同步架构
 
 ```
-教务系统 MySQL (<内网地址·已脱敏>:6001, smart_academic_affairs)
+教务系统 MySQL (<内网地址·已脱敏>:6001, 〈教务库〉)
     │
     │ CW 数据源直连（已配置）
     ▼
